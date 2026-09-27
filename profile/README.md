@@ -1,4 +1,4 @@
-**Building artificial worlds to study intelligent behavior.**
+## Building artificial worlds to study intelligent behavior.
 
 We investigate how artificial agents learn, reason, adapt, remember, and revise their beliefs when the world proves them wrong — not just whether they can complete a task.
 
